@@ -317,7 +317,7 @@ public class IStegGUI {
 		lblAbout.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent arg0) {
-				JOptionPane.showMessageDialog(null,"iSteg v-"+VCODE+"\nby Ibrahim Rafi\nVisit: github.com/rafiibrahim8/iSteg to learn more or report a bug.\n\nWARNING:\nTHIS SOFTWARE COMES WITH ABSOLUTELY NO WARRANTY. USE AT YOUR OWN RISK.");
+				JOptionPane.showMessageDialog(null,"Abhishek Wagavekar");
 			}
 		});
 		lblAbout.setCursor(new Cursor(Cursor.HAND_CURSOR));
